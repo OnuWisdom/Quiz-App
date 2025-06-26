@@ -38,6 +38,22 @@ Javascript, HTML, CSS...
 
 **Client:** HTML, CSS and JavaScript
 
+## Technologies Used
+
+**HTML:** Structure and layout of the app.
+
+**CSS:** Styling the user interface.
+
+**JavaScript:** Core functionality of the quiz, including randomization, answer tracking, and DOM manipulation.
+
+## File Structure
+
+**quiz-app/**
+├── index.html -- Main HTML file
+├── style.css -- CSS for styling
+├── script.js -- JavaScript for app logic
+└── README.md -- Documentation
+
 ## Related
 
 Here are some related projects
